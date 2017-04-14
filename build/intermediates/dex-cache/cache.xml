@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/nur/StudioProjects/MyBook/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/home/nur/StudioProjects/MyBook/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3d8895a69b672bd49b7004e2e1dfdec8b96c6abd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nur/StudioProjects/MyBook/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19d0e3b85f8482e8c47bf6092202fd181daad7eb">
+        <dex dex="/home/nur/StudioProjects/MyBook/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8e86b4f17044e52a50c38d3240475641d90607bb/classes.dex" />
+    </item>
+
+</items>
