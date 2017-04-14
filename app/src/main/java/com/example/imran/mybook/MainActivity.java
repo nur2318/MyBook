@@ -40,6 +40,7 @@ public class MainActivity extends AppCompatActivity implements Chepters.OnItemSe
             FragmentTransaction ft2=getSupportFragmentManager().beginTransaction();
             ft2.add(R.id.flContainer2, secondfragment);
             ft2.commit();
+            //hi
 
         }
     }
